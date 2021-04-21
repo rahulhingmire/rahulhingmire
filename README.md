@@ -4,9 +4,10 @@
 
 - 🔭 I'm ehusiastic coder
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m good at python ,c and dsa
+- 👯 I’m good at python,Java,c and dsa
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen a Music
+- ✔Learning a competative coding
 
 ### Spotify Playing 🎧
 
